@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sh-bit01
-- 👀 I’m interested in integration solutions, especially in IBM Integration Bus (IIB) and App Connect Enterprise (ACE).
-- 🌱 I’m currently learning more about advanced integration patterns, WS Security, and service-oriented architectures (SOA).
-- 💞️ I’m looking to collaborate on projects involving messaging systems, API management, and enterprise integration.
-- 📫 How to reach me: You can reach me via GitHub or email at [your- shreyashgondane099@gmail.com] for collaboration and inquiries.
+- 👋 Hey there, I’m @Sh-bit01! 
+- 🔧 I’m an integration enthusiast, diving deep into the world of IBM Integration Bus (IIB) and App Connect Enterprise (ACE). Making data flow smoothly is my thing!
+- 🚀 Currently, I’m exploring cutting-edge integration patterns, mastering WS Security, and building scalable service-oriented architectures (SOA).
+- 🤝 I’m always up for collaborating on innovative projects that bridge the gap between complex systems, APIs, and messaging solutions.
+- 📬 Got an idea, question, or a cool project to share? Let’s connect! Reach out to me via GitHub or email at [📫 contect](shreyashgondane099@gmail.com).
 
 
 <!---
