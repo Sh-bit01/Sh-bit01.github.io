@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @marlin-spike
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sh-bit01
+- 👀 I’m interested in integration solutions, especially in IBM Integration Bus (IIB) and App Connect Enterprise (ACE).
+- 🌱 I’m currently learning more about advanced integration patterns, WS Security, and service-oriented architectures (SOA).
+- 💞️ I’m looking to collaborate on projects involving messaging systems, API management, and enterprise integration.
+- 📫 How to reach me: You can reach me via GitHub or email at [your- shreyashgondane099@gmail.com] for collaboration and inquiries.
+
 
 <!---
 marlin-spike/marlin-spike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
